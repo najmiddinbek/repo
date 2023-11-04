@@ -23,7 +23,7 @@ export default async function Count() {
     return (
         <>
             <div className="absolute top-1 right-1 bg-red-600 text-[12px] text-white rounded-full px-1.5" >
-                {topiclar.length}
+                2
             </div>
         </>
 
